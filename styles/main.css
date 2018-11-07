@@ -5,7 +5,7 @@
 }
 main{
   background-color:red;
-  width: 620px;
+  width: 650px;
   margin: auto;
   padding: 20px;
 }
@@ -42,24 +42,52 @@ nav ul li a{
 .active{
   background-color: blue;
 }
-aside{
+main aside{
 margin: 0px 50px;
 }
-aside section{
-  margin: auto;
+main aside section{
+  margin: 2px 6px;
   height: 250px;
   width: 250px;
   display: inline-block;
   background-color: yellow;
 }
-aside section footer{
-  margin: auto;
+main aside section footer{
+  margin: 2px 6px;
   height: 230px;
   width: 230px;
   display: inline-block;
   background-color: rgb(8, 77, 109);
   border-radius: 50%;
 }
+main section{
+  width: 575px;
+  height: 450px;
+  margin: 2px;
+  background-color: yellow;
+  list-style: none;
+  
+}
+main section li{
+  width: 150px;
+  height: 420px;
+  margin: 15px;
+  display: inline-block;
+  background-color: aqua;
+}
+main section li nav{
+width: 110px;
+height: 110px;
+background-color: rgb(44, 7, 7);
+margin: 15px;
+}
+main section li footer{
+  width: 110px;
+  height: 390px;
+  margin: 15px;
+  background-color: rgb(44, 7, 7);
+  border-radius: 25%;
+  }
 
 
 
