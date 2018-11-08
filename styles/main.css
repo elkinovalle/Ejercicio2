@@ -87,7 +87,86 @@ main section li footer{
   margin: 15px;
   background-color: rgb(44, 7, 7);
   border-radius: 25%;
+  padding: 0px 4px;
+  }
+  main section li article{
+    width: 110px;
+    height: 110px;
+    background-color: rgb(44, 7, 7);
+    border-radius: 50%;
+    margin: 15px;
+    }
+  .pagina2{
+    width: 800px;
+    background-color: rgb(47, 255, 28);
+    margin: auto;
+    padding: 25px;
+  
+  }
+  .pagina2>article{
+    width: 360px;
+    height: 360px;
+    background-color: darkgray;
+    display: inline-block;
+    margin: 15px;
+  }
+  .pagina2>article>div{
+    width: 160px;
+    height: 160px;
+    background-color: brown;
+    display: inline-block;
+    border-radius: 50%;
+    margin: 5px;
+  }
+  .pagina2>aside{
+    width: 400px;
+    height: 200px;
+    background-color: darkgray;
+    margin: 20px auto;
+    padding: 50px 0px;
   }
 
+  .pagina2>aside>nav{
+    width: 180px;
+    height: 180px;
+    background-color: brown;
+    display: inline-block;
+    border-radius: 50%;
+    margin: 5px;
+  }
+  .pagina2>footer>li{
+    width: 130px;
+    height: 250px;
+    background-color: darkgray;
+    margin: 15px ;
+    display: inline-block;
+    list-style: none;
+  }
+  .pagina2>footer>li>div{
+    width: 90px;
+    height: 200px;
+    background-color: brown; 
+    border-radius: 30%;
+    margin: 15px ;
+    
+  }
+  .pagina2>footer>section{
+    width: 250px;
+    height: 250px;
+    background-color: darkgray;
+    display: inline-block;
+    list-style: none;
+  }
+  .pagina2>footer>section>nav{
+    width: 90px;
+    height: 90px;
+    background-color: brown;
+    display: inline-block;
+    border-radius: 50%;
+    margin: 15px;
+    padding: 10px 0 0 0;
+  }
+  
 
+  
 
