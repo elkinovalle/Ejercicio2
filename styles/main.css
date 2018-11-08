@@ -167,7 +167,52 @@ main section li footer{
     margin: 16px;
     padding: 10px;
   }
-  
-.
-  
+.pagina3{
+  background-color: yellow;
+  width: 800px;
+  height: 900px;
+  margin: 10px auto;
+}
+.pagina3 main{
+  background-color: rgb(126, 255, 41);
+  width: 325px;
+  height: 250px;
+  display:inline-block;
+  margin: 15px;
+  padding: 15px;
+}
+.pagina3 main article{
+  background-color: rgb(72, 134, 31);
+  width: 305px;
+  height: 235px;
+  display:inline-block;
+  padding: 15px 0px 0px 15px;
+}
+.pagina3 main article footer{
+  background-color: rgb(110, 201, 178);
+  width: 290px;
+  height: 220px;
+  display:inline-block;
+  vertical-align: top;
+}
+.pagina3 main article footer li{
+  background-color: rgb(12, 140, 190);
+  width: 74px;
+  height: 74px;
+  display:inline-block;
+  margin: 20px 10px 10px 10px;
+  border-radius:50%; 
+  list-style: none;
+}
+.pagina3 main article footer a{
+  background-color: rgb(12, 140, 190);
+  width: 74px;
+  height: 74px;
+  display:inline-block;
+  margin: 20px 10px 10px 10px;
+  list-style: none;
+}
+.pagina3 aside{
+
+}  
 
