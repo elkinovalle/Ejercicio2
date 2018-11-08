@@ -144,9 +144,9 @@ main section li footer{
   }
   .pagina2>footer>li>div{
     width: 90px;
-    height: 200px;
+    height: 220px;
     background-color: brown; 
-    border-radius: 30%;
+    border-radius: 75%;
     margin: 15px ;
     
   }
@@ -156,17 +156,18 @@ main section li footer{
     background-color: darkgray;
     display: inline-block;
     list-style: none;
+    padding: 7px 0 0 0 ;
   }
   .pagina2>footer>section>nav{
-    width: 90px;
-    height: 90px;
+    width: 70px;
+    height: 75px;
     background-color: brown;
     display: inline-block;
     border-radius: 50%;
-    margin: 15px;
-    padding: 10px 0 0 0;
+    margin: 16px;
+    padding: 10px;
   }
   
-
+.
   
 
